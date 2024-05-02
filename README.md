@@ -29,7 +29,7 @@ and solves a real problem!
 You need the [Go](https://go.dev/dl/) toolchain installed. 
 
 ```shell
-go install https://github.com/fabiofortkamp\bln@main
+go install github.com/fabiofortkamp/bln@main
 ```
 
 This will install the command under `$GOBIN` (which should be on your `$PATH`).
